@@ -6,10 +6,10 @@ class SubtisCli < Formula
   version "0.1.0"
 
   def install
-    bin.install "subtis-cli"
+    bin.install "subtis"
   end
 
   test do
-    system "#{bin}/subtis-cli", "--version"
+    system "#{bin}/subtis", "--version"
   end
 end

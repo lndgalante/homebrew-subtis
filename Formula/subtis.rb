@@ -1,4 +1,4 @@
-class SubtisCli < Formula
+class Subtis < Formula
   desc "Subtis CLI"
   homepage "https://github.com/lndgalante/homebrew-subtis"
   url "https://github.com/lndgalante/homebrew-subtis/releases/download/v0.1.0/subtis"

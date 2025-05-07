@@ -1,9 +1,9 @@
 class Subtis < Formula
   desc "Subtis CLI"
   homepage "https://github.com/lndgalante/homebrew-subtis"
-  url "https://github.com/lndgalante/homebrew-subtis/releases/download/v0.6.8/subtis"
-  sha256 "d14db079e976e30028963aedaf426d79ee82d268c83fe19b7af9df8d689b867d"
-  version "0.6.8"
+  url "https://github.com/lndgalante/homebrew-subtis/releases/download/v0.6.9/subtis"
+  sha256 "48aff22c92ddae6c93021cb18493f66b320de596254a9768b2cbce7b3e4c0aba"
+  version "0.6.9"
 
   def install
     bin.install "subtis"
